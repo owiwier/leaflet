@@ -1,0 +1,489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.9628, 52.21433]
+      },
+      "properties": {
+        "nazwa": "WKT Mera",
+        "adres": "aleja Bohaterów Września 12",
+        "godziny": "całodobowe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.94709, 52.20549]
+      },
+      "properties": {
+        "nazwa": "Szkoła Tenisa NET",
+        "adres": "ul. Zadumana 2b",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.95393, 52.23427]
+      },
+      "properties": {
+        "nazwa": "Wola Tennis Club",
+        "adres": "ul. Nowa 5",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.03796, 52.21998]
+      },
+      "properties": {
+        "nazwa": "Legia Tenis & Golf",
+        "adres": "ul. Myśliwiecka 4A",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.96519, 52.18920]
+      },
+      "properties": {
+        "nazwa": "Okęcie Tennis Club",
+        "adres": "ul. Radarowa 1",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.91517, 52.24585]
+      },
+      "properties": {
+        "nazwa": "Lech-Kort",
+        "adres": "ul. Kazubów 14",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.06938, 52.13660]
+      },
+      "properties": {
+        "nazwa": "Szkoła Tenisa Tie Break ",
+        "adres": "ul. Rosoła 19",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.03062, 52.19740]
+      },
+      "properties": {
+        "nazwa": "Korty Tenisowe Warszawianka",
+        "adres": "ul. Piaseczyńska 71",
+        "godziny": "8:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.04827, 52.22249]
+      },
+      "properties": {
+        "nazwa": "WTS Deski",
+        "adres": "ul. Gen. Mariusza Zaruskiego 8",
+        "godziny": "całodobowe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.04000, 52.14608]
+      },
+      "properties": {
+        "nazwa": "Sport & Smile Szkoła Tenisa",
+        "adres": "ul. Ludwika Hirszfelda 11",
+        "godziny": "całodobowe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.03279, 52.15897]
+      },
+      "properties": {
+        "nazwa": "Klub Tenisowy Smecz",
+        "adres": "ul. Stokłosy 2A",
+        "godziny": "7:30 - 22:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.04213, 52.18747]
+      },
+      "properties": {
+        "nazwa": "Szkoła Tenisa Atol",
+        "adres": "ul. Inspektowa 1",
+        "godziny": "8:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.14351, 52.19485]
+      },
+      "properties": {
+        "nazwa": "Tenislandia",
+        "adres": "ul. Kwiatów Polskich 1",
+        "godziny": "8:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.17371, 52.20780]
+      },
+      "properties": {
+        "nazwa": "Klub Tenisowy PASJA",
+        "adres": "ul. Mieczysława Pożaryskiego 28",
+        "godziny": "7:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.11243, 52.24293]
+      },
+      "properties": {
+        "nazwa": "Klub Tenisowy Olszynka Grochowska",
+        "adres": "ul. Osowska 15",
+        "godziny": "8:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.07500, 52.25198]
+      },
+      "properties": {
+        "nazwa": "Klub Tenisowy Orzeł",
+        "adres": "Podskarbińska 14",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.09986, 52.22725]
+      },
+      "properties": {
+        "nazwa": "Korty Gocław",
+        "adres": "ul. Władysława Umińskiego 12",
+        "godziny": "---"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.14592, 52.23725]
+      },
+      "properties": {
+        "nazwa": "Klub Tenisowy Break",
+        "adres": "ul. Józefa Strusia 78",
+        "godziny": "7:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.99935, 52.27214]
+      },
+      "properties": {
+        "nazwa": "Korty Spójnia Górna",
+        "adres": "Wybrzeże Gdyńskie 2",
+        "godziny": "6:00 - 0:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.98623, 52.27679]
+      },
+      "properties": {
+        "nazwa": "Korty Tenisowe Marymont",
+        "adres": "ul. Potocka 1",
+        "godziny": "8:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.01817, 52.25811]
+      },
+      "properties": {
+        "nazwa": "Korty Praga",
+        "adres": "Wybrzeże Helskie 1/5",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.94410, 52.29969]
+      },
+      "properties": {
+        "nazwa": "Ośrodek Hutnik",
+        "adres": "ul. Marymoncka 42",
+        "godziny": "8:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.95475, 52.28930]
+      },
+      "properties": {
+        "nazwa": "AM TENIS",
+        "adres": "ul. Marymoncka 34",
+        "godziny": "8:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.88875, 52.18618]
+      },
+      "properties": {
+        "nazwa": "OSiR Ursus",
+        "adres": "ul. Generała Kazimierza Sosnkowskiego 3",
+        "godziny": "7:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.84572, 52.20151]
+      },
+      "properties": {
+        "nazwa": "TENES Klub",
+        "adres": "ul. Piwna 13",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.99258, 52.19228]
+      },
+      "properties": {
+        "nazwa": "SBM Politechnika",
+        "adres": "ul. Etiudy Rewolucyjnej 49",
+        "godziny": "9:00 - 21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.99515, 52.14125]
+      },
+      "properties": {
+        "nazwa": "Tennis Spot",
+        "adres": "ul. Hołubcowa 54",
+        "godziny": "---"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.05110, 52.15858]
+      },
+      "properties": {
+        "nazwa": "Korty Tenisowe TBC3",
+        "adres": "ul. Jana Ciszewskiego 5",
+        "godziny": "7:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.09565, 52.14677]
+      },
+      "properties": {
+        "nazwa": "TenisWil Warszawa Wilanów",
+        "adres": "ul. Przyczółkowa 210C",
+        "godziny": "7:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.12573, 52.16578]
+      },
+      "properties": {
+        "nazwa": "Timing Klub Tenisowy",
+        "adres": "ul. Wał Zawadowy 103A",
+        "godziny": "7:30 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.06982,
+          52.19255
+        ]
+      },
+      "properties": {
+        "nazwa": "Sinnet Klub Tenisowy",
+        "adres": "ul. Gołkowska 2",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.98949, 52.30701]
+      },
+      "properties": {
+        "nazwa": "Morelowa Tennis Club",
+        "adres": "ul. Morelowa 8",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.02821, 52.33762]
+      },
+      "properties": {
+        "nazwa": "Klub Ganador Sport",
+        "adres": "ul. Płochocińska 97B",
+        "godziny": "7:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.08433, 52.28110]
+      },
+      "properties": {
+        "nazwa": "Kangur Klub",
+        "adres": "ul. Potulicka 1A",
+        "godziny": "7:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.03711, 52.23313]
+      },
+      "properties": {
+        "nazwa": "Ośrodek Solec",
+        "adres": "ul. Solec 71",
+        "godziny": "7:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.21197, 52.18513]
+      },
+      "properties": {
+        "nazwa": "Wilga",
+        "adres": "ul. Wilgi 71",
+        "godziny": "8:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.070095, 52.18747]
+      },
+      "properties": {
+        "nazwa": "TKKF WARS",
+        "adres": "ul. Jodłowa 1/3",
+        "godziny": "8:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.03180, 52.16532]
+      },
+      "properties": {
+        "nazwa": "Korty Tenisowe Tie Break",
+        "adres": "ul. Koncertowa 8A",
+        "godziny": "7:00 - 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.04277, 52.18591]
+      },
+      "properties": {
+        "nazwa": "Klub Tenisowy Stegny",
+        "adres": "ul. Inspektowa 1",
+        "godziny": "8:00 - 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.22348, 52.25003]
+      },
+      "properties": {
+        "nazwa": "Perun Wesoła",
+        "adres": "ul. Armii Krajowej 32",
+        "godziny": "8:000 - 22:00"
+      }
+    }
+  ]
+}
+
